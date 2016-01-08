@@ -1,0 +1,2 @@
+Word2Vec training for PaddleSoft. See Medium post for more. Code is very messy (sorry) but you should be able to clone and get it working. Training data is in docs/txt directory
+saved models in docs/w2vmodel
